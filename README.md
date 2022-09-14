@@ -9,7 +9,7 @@
 ## Caléndario
 
 <div align="center">
-    <img src="./relogio - print.PNG" alt="daily.dev" width="550">
+    <img src="./print.PNG" alt="daily.dev" width="550">
 </div>
 
 
