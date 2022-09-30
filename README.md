@@ -6,7 +6,7 @@
 <br>
 
 
-## Caléndario
+## Calendário
 
 <div align="center">
     <img src="./print.PNG" alt="daily.dev" width="550">
